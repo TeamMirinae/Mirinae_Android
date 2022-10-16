@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">미리내</string>
+
+    <string name="emotion0">🖼 뷰가 좋아요</string>
+    <string name="emotion1">🎀 특별한 날 가기 좋아요</string>
+    <string name="emotion2">🤫 조용히 쉬기 좋아요</string>
+    <string name="emotion3">❇ 집중하기 좋아요</string>
+    <string name="emotion4">📸 사진이 잘나와요</string>
+    <string name="emotion5">🪑 휴식 공간이 많아요</string>
+    <string name="emotion6">🌟 특별한 공간이 있어요</string>
+    <string name="emotion7">↔ 넓은 공간이에요</string>
+
+</resources>
