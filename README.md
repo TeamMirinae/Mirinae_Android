@@ -22,4 +22,4 @@
 ## 5. 개발 환경
 * ##### Android Studio Chipmunk | 2021.2.1 Patch 2  
 * ##### Kotlin 1.7.10  
-* ##### [back-end](https://github.com/TeamMirinae/Mirinae_Backend)
+* ##### [Back-end](https://github.com/TeamMirinae/Mirinae_Backend)
