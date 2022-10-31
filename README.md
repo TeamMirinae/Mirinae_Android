@@ -16,10 +16,16 @@
 ##### 그 위치를 좀 더 특별하게 기억하고, 기록하기 !
 
 ## 📱 화면 
-<img src="https://user-images.githubusercontent.com/72978589/196872692-4b6c0cc3-962d-47f6-9399-5b09110b4121.png" width="70%" height="35%">   
+<img src="https://user-images.githubusercontent.com/72978589/199031596-b7d86917-9cbf-4ef3-867a-4ed4a32da172.JPG" width="100%" height="50%">   
+<img src="https://user-images.githubusercontent.com/72978589/199031768-fc9e53d9-ec1e-4ffc-bc4b-a2adca02ab38.JPG" width="100%" height="50%">   
 
-
-## 🛠 개발 환경
-* ##### Android Studio Chipmunk | 2021.2.1 Patch 2  
-* ##### Kotlin 1.7.10  
-* ##### [Back-end](https://github.com/TeamMirinae/Mirinae_Backend)
+## 🛠 개발 환경 및 dependencies
+#### Android  
+> ##### Android Studio Chipmunk | 2021.2.1 Patch 2   
+> ##### Kotlin 1.7.10   
+> ##### kakao map api  
+> ##### button toggle group - nl.bryanderidder:themed-toggle-button-group:1.4.1  
+> ##### retrofit2:retrofit:2.9.0  
+> ##### retrofit2:converter-gson:2.9.0  
+> #####  Url 이미지로딩 라이브러리 - com.github.bumptech.glide:glide:4.12.0  
+#### [Back-end](https://github.com/TeamMirinae/Mirinae_Backend)
